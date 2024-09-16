@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MTIXtMdEBBb5AycjnEnByw7FMd9MFR4XAZCNMW2gPSxCCl7UrMfIG/b4LUmr8XfEWsSnpSIC9NLeQLhEpZLPzw==",
+  "dgSpecHash": "vOXth8GwS11j9vlbecWjZJoXNPZwZKJwgt0AzENh9M2O+rdzzcwbVmn4uPaTp+8Ab0fw2w7X0qVO0G1JpCGg/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj",
+  "projectFilePath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

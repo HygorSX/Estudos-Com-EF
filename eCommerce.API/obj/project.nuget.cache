@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCuK9lK03BBNLPDjfTHCSfCYe3Zl9xdcJlXb1ccoG6KCGXbeLnagooLSm4+GBma0ZEFxcdklKwbgcuR1qwoQCQ==",
+  "dgSpecHash": "VigrNR69HjDb95Su85Qj7ggVUcrvrMlDBxUSre25qPHoJ2mEwNb+2z0XBJ4As5FR2Wzx6f+I7caQid753ctxog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\eCommerce.API.csproj",
+  "projectFilePath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\eCommerce.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hygor\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hygor\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

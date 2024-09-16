@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj": {}
+    "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj": {
+    "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj",
+        "projectUniqueName": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj",
         "projectName": "eCommerce.Models",
-        "projectPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj",
+        "projectPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj",
         "packagesPath": "C:\\Users\\hygor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\obj\\",
+        "outputPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

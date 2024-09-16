@@ -1,58 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\",
+  "WorkspaceRootPath": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\migrations\\20240913133513_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\migrations\\20240913133513_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\migrations\\ecommercecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.models\\ecommerce.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.models\\ecommerce.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\ecommerce.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\curso_csharp\\ecommmerce\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B25684-0EDB-4103-981D-C6ABC9C72886}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\hygor\\onedrive\\documentos\\estudos-com-ef\\ecommerce.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DFB2A68-F0C4-4DA0-83F6-A370F27ACE95}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,126 +74,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "eCommerceContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Migrations\\eCommerceContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Migrations\\eCommerceContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Migrations\\eCommerceContextModelSnapshot.cs",
+              "RelativeToolTip": "eCommerce.API\\Migrations\\eCommerceContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:56:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "eCommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\appsettings.json",
+              "RelativeToolTip": "eCommerce.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T13:40:29.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "20240913133513_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Migrations\\20240913133513_InitialCreate.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Migrations\\20240913133513_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Migrations\\20240913133513_InitialCreate.cs",
+              "RelativeToolTip": "eCommerce.API\\Migrations\\20240913133513_InitialCreate.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:35:13.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\appsettings.Production.json",
               "RelativeDocumentMoniker": "eCommerce.API\\appsettings.Production.json",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\appsettings.Production.json",
               "RelativeToolTip": "eCommerce.API\\appsettings.Production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-05T22:41:19.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "eCommerce.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\appsettings.Development.json",
               "RelativeToolTip": "eCommerce.API\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-05T22:36:59.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "eCommerceContext.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Database\\eCommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Database\\eCommerceContext.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Database\\eCommerceContext.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Database\\eCommerceContext.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Database\\eCommerceContext.cs",
               "RelativeToolTip": "eCommerce.API\\Database\\eCommerceContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T22:16:35.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Controllers\\UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "eCommerce.API\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwDQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T22:58:22.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Program.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Program.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Program.cs",
               "RelativeToolTip": "eCommerce.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T22:36:12.746Z"
+              "WhenOpened": "2024-09-04T22:36:12.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
               "RelativeToolTip": "eCommerce.API\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:40:14.033Z"
+              "WhenOpened": "2024-09-03T23:40:14.033Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Repositories\\IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Repositories\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "eCommerce.API\\Repositories\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Repositories\\IUsuarioRepository.cs",
               "RelativeToolTip": "eCommerce.API\\Repositories\\IUsuarioRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T23:30:30.215Z"
+              "WhenOpened": "2024-09-03T23:30:30.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\Departamento.cs",
               "RelativeDocumentMoniker": "eCommerce.Models\\Departamento.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\Departamento.cs",
               "RelativeToolTip": "eCommerce.Models\\Departamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:20:38.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "EnderecoEntrega.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\EnderecoEntrega.cs",
               "RelativeDocumentMoniker": "eCommerce.Models\\EnderecoEntrega.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\EnderecoEntrega.cs",
               "RelativeToolTip": "eCommerce.Models\\EnderecoEntrega.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T23:06:50.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\Contato.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\Contato.cs",
               "RelativeDocumentMoniker": "eCommerce.Models\\Contato.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\Contato.cs",
               "RelativeToolTip": "eCommerce.Models\\Contato.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,35 +243,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\Usuario.cs",
               "RelativeDocumentMoniker": "eCommerce.Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\Usuario.cs",
               "RelativeToolTip": "eCommerce.Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T22:52:53.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "eCommerce.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj",
               "RelativeDocumentMoniker": "eCommerce.Models\\eCommerce.Models.csproj",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.Models\\eCommerce.Models.csproj",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.Models\\eCommerce.Models.csproj",
               "RelativeToolTip": "eCommerce.Models\\eCommerce.Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-03T22:50:54.446Z"
+              "WhenOpened": "2024-09-03T22:50:54.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "eCommerce.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Curso_CSharp\\eCommmerce\\eCommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hygor\\OneDrive\\Documentos\\Estudos-Com-EF\\eCommerce.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "eCommerce.API\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

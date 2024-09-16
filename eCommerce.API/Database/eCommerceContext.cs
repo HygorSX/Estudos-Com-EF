@@ -16,7 +16,7 @@ namespace eCommerce.API.Database
         #region Conexao sem distinção de ambientes de execução
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-73M6QT8\\MSSQLSERVER01;Database=Blog;Integrated Security=True;");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-73M6QT8\\MSSQLSERVER01;Database=eCommerce;Integrated Security=True;Encrypt=True;TrustServerCertificate=True;");
         }
         #endregion
     }
